@@ -559,7 +559,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -10998,7 +10998,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 20.56rem;
+  width:20rem;
 }
 
 @media (min-width: 992px) {
@@ -11063,3 +11063,4 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
